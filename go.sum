@@ -50,10 +50,6 @@ github.com/PuerkitoBio/purell v1.1.1 h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tN
 github.com/PuerkitoBio/purell v1.1.1/go.mod h1:c11w/QuzBsJSee3cPx9rAFu61PvFxuPbtSwDGJws/X0=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 h1:d+Bc7a5rLufV/sSk/8dngufqelfh6jnri85riMAaF/M=
 github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578/go.mod h1:uGdkoq3SwY9Y+13GIhn11/XLaGBb4BfwItxLd5jeuXE=
-github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220214135435-15b8e27448d9 h1:0+DDWtvnJ8SAcm4OVMYAz2xftU9l621VpPGGpy5/Fps=
-github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220214135435-15b8e27448d9/go.mod h1:wT4w3B8KvBXLuiw3xaJs/AditH3OcrrfuIAMJEka3C4=
-github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220220124850-0a1e828429cb h1:RH+qOyGPCQ1EMmnb5S2RDwN6CxwCOlXbVHx6KaDTZrg=
-github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220220124850-0a1e828429cb/go.mod h1:wT4w3B8KvBXLuiw3xaJs/AditH3OcrrfuIAMJEka3C4=
 github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220220150921-67cd95e079fa h1:c9acuDfR/yl4vmBXNwBRkRZPr6EyQeMH+OqI9q3Sebs=
 github.com/Yuyz0112/cloudtower-go-sdk v0.0.0-20220220150921-67cd95e079fa/go.mod h1:wT4w3B8KvBXLuiw3xaJs/AditH3OcrrfuIAMJEka3C4=
 github.com/acomagu/bufpipe v1.0.3 h1:fxAGrHZTgQ9w5QqVItgzwj235/uYZYgbXitB+dLupOk=
@@ -187,8 +183,8 @@ github.com/go-openapi/runtime v0.19.15/go.mod h1:dhGWCTKRXlAfGnQG0ONViOZpjfg0m2g
 github.com/go-openapi/runtime v0.19.16/go.mod h1:5P9104EJgYcizotuXhEuUrzVc+j1RiSjahULvYmlv98=
 github.com/go-openapi/runtime v0.19.24/go.mod h1:Lm9YGCeecBnUUkFTxPC4s1+lwrkJ0pthx8YvyjCfkgk=
 github.com/go-openapi/runtime v0.19.29/go.mod h1:BvrQtn6iVb2QmiVXRsFAm6ZCAZBpbVKFfN6QWCp582M=
-github.com/go-openapi/runtime v0.21.0 h1:giZ8eT26R+/rx6RX2MkYjZPY8vPYVKDhP/mOazrQHzM=
-github.com/go-openapi/runtime v0.21.0/go.mod h1:aQg+kaIQEn+A2CRSY1TxbM8+sT9g2V3aLc1FbIAnbbs=
+github.com/go-openapi/runtime v0.23.0 h1:HX6ET2sHCIvaKeDDQoU01CtO1ekg5EkekHSkLTtWXH0=
+github.com/go-openapi/runtime v0.23.0/go.mod h1:aQg+kaIQEn+A2CRSY1TxbM8+sT9g2V3aLc1FbIAnbbs=
 github.com/go-openapi/spec v0.17.0/go.mod h1:XkF/MOi14NmjsfZ8VtAKf8pIlbZzyoTvZsdfssdxcBI=
 github.com/go-openapi/spec v0.18.0/go.mod h1:XkF/MOi14NmjsfZ8VtAKf8pIlbZzyoTvZsdfssdxcBI=
 github.com/go-openapi/spec v0.19.2/go.mod h1:sCxk3jxKgioEJikev4fgkNmwS+3kuYdJtcsZsD5zxMY=
